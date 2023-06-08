@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://instagram.com/islofcalm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="islofcalmINST" height="30" width="40" /></a>
 <a href="https://t.me/islofcalm" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4701/4701496.png" alt="islofcalmTG" height="30" width="40" /></a>
-<a href="https://vk.com/1rama_2_vandama" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/701/285/png-clipart-vkontakte-computer-icons-logo-others-angle-hand-thumbnail.png" alt="islofcalmVK" height="30" width="40" /></a>
+<a href="https://vk.com/1rama_2_vandama" target="blank"><img align="center" src="https://i.pinimg.com/originals/9b/fd/ae/9bfdaedd61a6b9347f61026d1cf39ae1.png" alt="islofcalmVK" height="30" width="40" /></a>
   
 </p>
 
