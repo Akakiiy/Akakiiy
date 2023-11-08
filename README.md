@@ -1,12 +1,12 @@
 <h1 align="center">Здравствуйте! Меня зовут Антон</h1>
 <h3 align="center">Я frontend разработчик</h3>
 
--  Сейчас я работаю над продуктом компании [АО «СмартРейс» (Сколково)](https://navigator.sk.ru/orn/1124483) и помогаю с проектом для компании [hectaresystems](https://hectaresystems.ru/)
+Сейчас я работаю над продуктом компании [АО «СмартРейс» (Сколково)](https://navigator.sk.ru/orn/1124483) и помогаю с проектом для компании [hectaresystems](https://hectaresystems.ru/)
 
--  На данный момент веду проект разрабатываемый с 0 https://eggrussia.com/
+На данный момент веду проект разрабатываемый с 0 https://eggrussia.com/
 
--  Моя почта: **spinsib@gmail.com**
--  Мой телеграмм **@islofcalm**
+Моя почта: **spinsib@gmail.com**
+Мой телеграмм **@islofcalm**
 
 <h3 align="left">Для связи со мной:</h3>
 <p align="left">
