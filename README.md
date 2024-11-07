@@ -8,7 +8,7 @@ I have been professionally engaged in programming for over four years. My experi
 
 * 🌍  I'm based in Novosibirsk / Moscow
 * ✉️  You can contact me at [spinisib@gmail.com](mailto:spinisib@gmail.com)
-* 🧠  I'm learning React, React native, GraphQL, Docker :D
+* 🧠  I'm learning React, React native, Solidity
 * 🤝  I'm open to collaborating on Interesting projects with potential for growth
 
 ### Skills
