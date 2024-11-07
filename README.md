@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend-developer
 ------------------
 
-I have been professionally engaged in programming for over three years. My experience includes developing single-page applications (SPA) from scratch, as well as optimizing and architecturally enhancing them. Additionally, I have experience working with startup projects
+I have been professionally engaged in programming for over four years. My experience includes developing single-page applications (SPA) from scratch, as well as optimizing and architecturally enhancing them. Additionally, I have experience working with startup projects
 
 * 🌍  I'm based in Novosibirsk / Moscow
 * ✉️  You can contact me at [spinisib@gmail.com](mailto:spinisib@gmail.com)
